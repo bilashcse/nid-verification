@@ -1,0 +1,35 @@
+{
+  "name": "bd-nid-varification",
+  "version": "0.0.1",
+  "description": "NID Verification using porichoi API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bilashcse/bd-nid-verification.git"
+  },
+  "keywords": [
+    "NID",
+    "smart",
+    "card",
+    "verification",
+    "validation"
+  ],
+  "author": "Bilash",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bilashcse/bd-nid-verification/issues"
+  },
+  "homepage": "https://github.com/bilashcse/bd-nid-verification#readme",
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "request-promise-native": "^1.0.8"
+  }
+}
