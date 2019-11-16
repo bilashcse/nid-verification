@@ -1,6 +1,6 @@
 const express = require('express');
 
-const {verify} = require('./nid');
+const {verify} = require('./src/nid');
 
 const app = express();
 const port = process.env.PORT || 3004;
