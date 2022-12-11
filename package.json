@@ -29,7 +29,7 @@
     "eslint-plugin-import": "^2.18.2"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "request": "^2.88.0",
     "request-promise-native": "^1.0.8"
   }
